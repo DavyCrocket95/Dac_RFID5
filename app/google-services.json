@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "843692793205",
+    "project_id": "rfid-9002f",
+    "storage_bucket": "rfid-9002f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843692793205:android:d72b86923ccb9a50e6873c",
+        "android_client_info": {
+          "package_name": "com.example.dac_rfid5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843692793205-n14mg4do5gm61k11rd2720cd48ko1v8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABG04BqynjUQ_tGij_OeqK7QrKuondfvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843692793205-n14mg4do5gm61k11rd2720cd48ko1v8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843692793205:android:8dcd17927cb3801fe6873c",
+        "android_client_info": {
+          "package_name": "com.example.rfid_dac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843692793205-n14mg4do5gm61k11rd2720cd48ko1v8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABG04BqynjUQ_tGij_OeqK7QrKuondfvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843692793205-n14mg4do5gm61k11rd2720cd48ko1v8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843692793205:android:e113e33fcaa18bb2e6873c",
+        "android_client_info": {
+          "package_name": "com.example.rfid_doc2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843692793205-n14mg4do5gm61k11rd2720cd48ko1v8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABG04BqynjUQ_tGij_OeqK7QrKuondfvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843692793205-n14mg4do5gm61k11rd2720cd48ko1v8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843692793205:android:972b6d81cdfcda93e6873c",
+        "android_client_info": {
+          "package_name": "com.gretamyrfidproject.rfid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843692793205-n14mg4do5gm61k11rd2720cd48ko1v8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABG04BqynjUQ_tGij_OeqK7QrKuondfvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843692793205-n14mg4do5gm61k11rd2720cd48ko1v8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
